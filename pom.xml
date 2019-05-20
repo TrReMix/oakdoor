@@ -8,7 +8,7 @@
         <version>2.1.4.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>pers.wtr.oakdoor</groupId>
+    <groupId>pers.trremix.oakdoor</groupId>
     <artifactId>permctrl</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>oakdoor</name>
